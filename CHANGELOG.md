@@ -1,5 +1,16 @@
 # Semantic Versioning Changelog
 
+## [1.0.1](https://github.com/ivelin/fall-detection/compare/v1.0.0...v1.0.1) (2021-10-04)
+
+
+### Bug Fixes
+
+* pypi package name ([731bac5](https://github.com/ivelin/fall-detection/commit/731bac595e17ab4589ae0865e749e39b0a198583))
+* pypi release action ([b81b100](https://github.com/ivelin/fall-detection/commit/b81b100aea6fc1eee40265e235ef192ee9b1df10))
+* pypi upload command ([246e8d1](https://github.com/ivelin/fall-detection/commit/246e8d1a35a07c2cb3ad16d8e32952af1e13cd5a))
+* test pypi publish workflow ([3bac010](https://github.com/ivelin/fall-detection/commit/3bac0108b08c8bfb7151dbf0bd9dae7459467f81))
+* trigger pypi publish workflow ([9884d25](https://github.com/ivelin/fall-detection/commit/9884d252bcbe45bc53133963cc1f877f631a30dd))
+
 ## [1.0.4](https://github.com/ambianic/fall-detection/compare/v1.0.3...v1.0.4) (2021-10-04)
 
 
